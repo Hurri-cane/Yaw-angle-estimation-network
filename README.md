@@ -5,7 +5,7 @@
 
  In this work, we proposed a framework for accurately predicting the object's pose based on the arrangement of parts. We apply this framework to estimate the yaw angle of vehicles, and we call it YAEN. YAEN can estimate the yaw angle of vehicles using a monocular camera. 
 
-Demo video is available [You Tube](https://youtu.be/aRB5uvD5RY4) or [Bilibili](https://www.bilibili.com/video/BV1sS4y1M7Aq/)  .  
+Demo video is available [You Tube](https://youtu.be/TfCqXiFiCEY) or [Bilibili](https://www.bilibili.com/video/BV1sS4y1M7Aq/)  .  
 
 ![image-20211224114423565](https://user-images.githubusercontent.com/32425429/147342836-b5211eb8-c842-4600-b42b-75ff979dcc30.png)
 ## Install
