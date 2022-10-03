@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam1</folder>
+	<filename>2021-09-08-18h08m50s013287us-17105928.jpg</filename>
+	<path>D:\Program\Data_Set\Heading_angle_Proc\data_2021.09.08-18.09\cam1\2021-09-08-18h08m50s013287us-17105928.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>483</xmin>
+			<ymin>421</ymin>
+			<xmax>1200</xmax>
+			<ymax>1025</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder>Heading</folder>
+	<filename>2021-09-08-18h09m39s064853us-17105928.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>419</ymin>
+			<xmax>482</xmax>
+			<ymax>788</ymax>
+		</bndbox>
+	</object>
+</annotation>
