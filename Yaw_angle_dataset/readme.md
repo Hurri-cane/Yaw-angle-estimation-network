@@ -34,7 +34,7 @@ train ：The Data for the training model
 
 val ：The data used to test the model
 
-raw_data_example：Example of raw data collected by the above device, note that only part of the raw data is shown here, if you need more raw data, please refer to this link [GoogleDrive](https://drive.google.com/drive/folders/17uoB-aNu3g1SA42K_FgYyvCALzejKvUE)
+raw_data_example：Example of raw data collected by the above device, note that only part of the raw data is shown here, if you need more raw data, please refer to this link [GoogleDrive](https://drive.google.com/drive/folders/17uoB-aNu3g1SA42K_FgYyvCALzejKvUE)/[BaiduDrive(code:2233 )](https://pan.baidu.com/s/1oBU9uWupAsT147W8kIJyEA?pwd=2233 )
 
 the yawing.data in train/val folder contains 14277/1586 sample of mappings between transverse pendulum angles and part combinations, which can be extracted using Python's pickle tool, for example
 
