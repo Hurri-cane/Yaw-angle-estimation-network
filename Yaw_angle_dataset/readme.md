@@ -36,7 +36,7 @@ val ：The data used to test the model
 
 raw_data_example：Example of raw data collected by the above device, note that only part of the raw data is shown here, if you need more raw data, please refer to this link [GoogleDrive](https://drive.google.com/drive/folders/17uoB-aNu3g1SA42K_FgYyvCALzejKvUE)
 
-the yawing.data in train/val folder contains a large sample of mappings between transverse pendulum angles and part combinations, which can be extracted using Python's pickle tool, for example
+the yawing.data in train/val folder contains 14277/1586 sample of mappings between transverse pendulum angles and part combinations, which can be extracted using Python's pickle tool, for example
 
 ```
 import pickle
@@ -45,7 +45,7 @@ with open(data_path, 'rb')as f:
 ```
 
 
-For more details, please refer to the [train.py](./train.py)  file
+For more details, please refer to the [train.py](../train.py)  file
 
 # 
 
