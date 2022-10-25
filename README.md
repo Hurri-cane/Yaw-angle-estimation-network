@@ -83,3 +83,10 @@ It will loop 100 times and calculate the average runtime and fps in your environ
 ## Acknowledgment
 
 Zou Bin, Li Wenbo, Tang Luqi, Zhu Xiaoming have made great contributions to this work. Thanks for their helpful contribution.
+
+## Citation
+If you find our code/models useful in your research, please cite our paper:
+
+```
+Huang, W.; Li, W.; Tang, L.; Zhu, X.; Zou, B. A Deep Learning Framework for Accurate Vehicle Yaw Angle Estimation from a Monocular Camera Based on Part Arrangement. Sensors 2022, 22, 8027. https://doi.org/10.3390/s22208027
+```
